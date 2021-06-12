@@ -40,13 +40,11 @@ python3 bot.py
 
 ## Accounts
 
-* [Twitter](https://twitter.com/FayasNoushad)
-* [YouTube](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ)
-* [GitHub](https://github.com/FayasNoushad)
-* [Telegram](https://telegram.me/FayasNoushad)
+* [Twitter](https://twitter.com/Kitetvindia)
+* [YouTube](https://youtube.com/Kitetvindia)
+* [GitHub](https://github.com/Dhinakaran2007)
+* [Telegram](https://telegram.me/Kitetvindia)
 
 ## Credits
 
-* [Fayas Noushad](https://github.com/FayasNoushad)
-* [Shrimadhav UK](https://github.com/SpEcHIDe)
-* [Pyrogram](https://github.com/pyrogram/pyrogram)
+* [Dhinakaran](https://github.com/Dhinakaran2007)

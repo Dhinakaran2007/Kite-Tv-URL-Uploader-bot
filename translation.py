@@ -5,7 +5,7 @@ class Translation(object):
     START_TEXT = """
 Hello {} , I'am a url to telegram file or media uploader bot with permanent thumbnail support.
 
-Made by @FayasNoushad
+Made by @KITETVINDIA
 """
     HELP_TEXT = """
 <b><u>Link to Media or File</u></b>
@@ -20,22 +20,22 @@ Made by @FayasNoushad
 <b><u>Show Thumbnail</u></b>
 ➠ Send /showthumb to view custom thumbnail.
 
-Made by @FayasNoushad
+Made by @KITETVINDIA
 """
     ABOUT_TEXT = """
 - **Bot :** `URL Uploader`
-- **Creator :** [Fayas](https://telegram.me/TheFayas)
-- **Channel :** [Fayas Noushad](https://telegram.me/FayasNoushad)
-- **Credits :** `Everyone in this journey`
-- **Source :** [Click here](https://github.com/FayasNoushad/URL-Uploader)
+- **Creator :** [Kite Tv Networks Private Limited](https://youtu.be/7TbQ43mO-gI)
+- **Channel :** [Kite Tv Networks Private Limited](https://t.me/Kitetvindia)
+- **Credits :** [Kite Tv Networks Private Limited] (https://youtube.com/Kitetvindia)
+- **Source :** [Click here](https://github.com/Dhinakaran_2007/Kite-Tv-URL-Uploader-bot)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
-- **Server :** [Heroku](https://heroku.com)
+- **Server :** [Kite Tv Networks Private Limited](https://youtube.com/KITETVINDIA)
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url='https://telegram.me/FayasNoushad'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/TheFayas')
+        InlineKeyboardButton('Channel', url='https://youtu.be/7TbQ43mO-gI'),
+        InlineKeyboardButton('Feedback', url='https://youtu.be/7TbQ43mO-gI')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
